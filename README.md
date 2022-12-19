@@ -1,4 +1,4 @@
-#instalation
+# instalation
 1. install node.js (https://nodejs.org/en/)
 2. In the project directory, run 
 ```
