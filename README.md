@@ -9,6 +9,12 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+In src/Auth.tsx,
+```
+4: const ROOM_NUMBER = 1; // you can change the chat room 
+```
+Change the number accordingly．
+
 ### The port number must be 3000 due to CORS.
 
 The page will reload if you make edits.\
